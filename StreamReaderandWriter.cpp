@@ -3,3 +3,8 @@
 #include <fstream> //untuk file I/O (Stream Reader/Writer)
 #include <string>
 using namespace std;
+
+int main()
+{
+    
+}
