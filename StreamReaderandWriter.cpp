@@ -6,5 +6,7 @@ using namespace std;
 
 int main()
 {
-    
+    //deklarasi variabel baris untuk menyimpan data string
+    string baris;
+
 }
