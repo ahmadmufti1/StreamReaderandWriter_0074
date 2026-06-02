@@ -1,0 +1,1 @@
+kondisi jika throw bertipe data selain integer
