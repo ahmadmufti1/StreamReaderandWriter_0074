@@ -1,5 +1,5 @@
 #include <iostream>
-#include <exception>
+#include <exception> //untuk menangani error
 #include <array>
 #include <string>
 #include <fstream> //untuk file I/O (Stream Reader/Writer)
